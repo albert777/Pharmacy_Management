@@ -1,0 +1,373 @@
+C:\Users\kadem1s\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\kadem1s\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\kadem1s\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\kadem1s\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+C:\Users\kadem1s\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+C:\Users\kadem1s\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+C:\Users\kadem1s\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\kadem1s\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\kadem1s\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+C:\Users\kadem1s\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\kadem1s\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\kadem1s\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\kadem1s\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+U:\635\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+U:\635\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+U:\635\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+U:\635\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+U:\635\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+U:\635\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+U:\635\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+U:\635\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+U:\635\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+U:\635\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+U:\635\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+U:\635\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+U:\635\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+U:\635\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+U:\635\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\FAZ\Desktop\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\FAZ\Desktop\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\FAZ\Desktop\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\FAZ\Desktop\xz\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\FAZ\Desktop\xz\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\FAZ\Desktop\xz\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\FAZ\Desktop\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+C:\Users\FAZ\Desktop\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+C:\Users\FAZ\Desktop\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+C:\Users\FAZ\Desktop\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+C:\Users\FAZ\Desktop\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\FAZ\Desktop\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\FAZ\Desktop\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+C:\Users\FAZ\Desktop\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+C:\Users\FAZ\Desktop\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\FAZ\Desktop\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CustomerId.resources
+C:\Users\FAZ\Desktop\gopi\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\FAZ\Desktop\gopi\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\FAZ\Desktop\gopi\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\FAZ\Desktop\gopi\xz\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\FAZ\Desktop\gopi\xz\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\FAZ\Desktop\gopi\xz\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\FAZ\Desktop\gopi\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+C:\Users\FAZ\Desktop\gopi\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+C:\Users\FAZ\Desktop\gopi\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CustomerId.resources
+C:\Users\FAZ\Desktop\gopi\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+C:\Users\FAZ\Desktop\gopi\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+C:\Users\FAZ\Desktop\gopi\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\FAZ\Desktop\gopi\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\FAZ\Desktop\gopi\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+C:\Users\FAZ\Desktop\gopi\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+C:\Users\FAZ\Desktop\gopi\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\parva1b\Downloads\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\parva1b\Downloads\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\parva1b\Downloads\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\parva1b\Downloads\xz\xz\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\parva1b\Downloads\xz\xz\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\parva1b\Downloads\xz\xz\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\parva1b\Downloads\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+C:\Users\parva1b\Downloads\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+C:\Users\parva1b\Downloads\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CustomerId.resources
+C:\Users\parva1b\Downloads\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+C:\Users\parva1b\Downloads\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+C:\Users\parva1b\Downloads\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\parva1b\Downloads\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\parva1b\Downloads\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+C:\Users\parva1b\Downloads\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+C:\Users\parva1b\Downloads\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\FAZ\Desktop\gopi\xz (2)\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\FAZ\Desktop\gopi\xz (2)\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\FAZ\Desktop\gopi\xz (2)\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\FAZ\Desktop\gopi\xz (2)\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+C:\Users\FAZ\Desktop\gopi\xz (2)\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+C:\Users\FAZ\Desktop\gopi\xz (2)\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CustomerId.resources
+C:\Users\FAZ\Desktop\gopi\xz (2)\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+C:\Users\FAZ\Desktop\gopi\xz (2)\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+C:\Users\FAZ\Desktop\gopi\xz (2)\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\FAZ\Desktop\gopi\xz (2)\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\FAZ\Desktop\gopi\xz (2)\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+C:\Users\FAZ\Desktop\gopi\xz (2)\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+C:\Users\FAZ\Desktop\gopi\xz (2)\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\FAZ\Desktop\gopi\xz (2)\xz\xz\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\FAZ\Desktop\gopi\xz (2)\xz\xz\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\FAZ\Desktop\gopi\xz (2)\xz\xz\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\FAZ\Desktop\gopi\new-copy\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\FAZ\Desktop\gopi\new-copy\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\FAZ\Desktop\gopi\new-copy\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\FAZ\Desktop\gopi\new-copy\xz\xz\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\FAZ\Desktop\gopi\new-copy\xz\xz\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\FAZ\Desktop\gopi\new-copy\xz\xz\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\FAZ\Desktop\gopi\new-copy\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+C:\Users\FAZ\Desktop\gopi\new-copy\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+C:\Users\FAZ\Desktop\gopi\new-copy\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CustomerId.resources
+C:\Users\FAZ\Desktop\gopi\new-copy\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+C:\Users\FAZ\Desktop\gopi\new-copy\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+C:\Users\FAZ\Desktop\gopi\new-copy\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\FAZ\Desktop\gopi\new-copy\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\FAZ\Desktop\gopi\new-copy\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+C:\Users\FAZ\Desktop\gopi\new-copy\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+C:\Users\FAZ\Desktop\gopi\new-copy\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CustomerId.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Sales_Report.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Inventory_Report.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Vendor.resources
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CustomerId.resources
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Inventory_Report.resources
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Sales_Report.resources
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Vendor.resources
+U:\635\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CustomerId.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Inventory_Report.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Sales_Report.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Vendor.resources
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\FAZ\Desktop\gopi\new-copy1 (2)\new-copy1\new-copy1\xz\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Edit_Customer.resources
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CustomerId.resources
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Edit_Customer.resources
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Inventory_Report.resources
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Sales_Report.resources
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Vendor.resources
+C:\Users\kadem1s\Downloads\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CustomerId.resources
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Edit_Customer.resources
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Inventory_Report.resources
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Sales_Report.resources
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Vendor.resources
+C:\Users\remal1s\Downloads\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+U:\635\final\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+U:\635\final\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+U:\635\final\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+U:\635\final\latest\latest\xz\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+U:\635\final\latest\latest\xz\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+U:\635\final\latest\latest\xz\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+U:\635\final\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+U:\635\final\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+U:\635\final\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CustomerId.resources
+U:\635\final\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Edit_Customer.resources
+U:\635\final\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+U:\635\final\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+U:\635\final\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Inventory_Report.resources
+U:\635\final\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+U:\635\final\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+U:\635\final\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+U:\635\final\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+U:\635\final\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Sales_Report.resources
+U:\635\final\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Vendor.resources
+U:\635\final\latest\latest\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CustomerId.resources
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Edit_Customer.resources
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Inventory_Report.resources
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Sales_Report.resources
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Vendor.resources
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\FAZ\Desktop\gopi\finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Medicine.resources
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CustomerId.resources
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Edit_Customer.resources
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Inventory_Report.resources
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Medicine.resources
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Sales_Report.resources
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Vendor.resources
+C:\Users\FAZ\Desktop\gopi\finial\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CustomerId.resources
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Edit_Customer.resources
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Inventory_Report.resources
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Medicine.resources
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Sales_Report.resources
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Vendor.resources
+C:\Users\kadem1s\Downloads\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CustomerId.resources
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Edit_Customer.resources
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Inventory_Report.resources
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Medicine.resources
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Sales_Report.resources
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Vendor.resources
+C:\Users\kadem1s\Downloads\Final_project_1\Finial_project\Finial\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CustomerId.resources
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Edit_Customer.resources
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Inventory_Report.resources
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Medicine.resources
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Sales_Report.resources
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Vendor.resources
+C:\Users\somi1n\Desktop\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+U:\635\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+U:\635\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+U:\635\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+U:\635\Final_Project_Group4\xz\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+U:\635\Final_Project_Group4\xz\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+U:\635\Final_Project_Group4\xz\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+U:\635\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+U:\635\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+U:\635\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CustomerId.resources
+U:\635\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Edit_Customer.resources
+U:\635\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+U:\635\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+U:\635\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Inventory_Report.resources
+U:\635\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+U:\635\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+U:\635\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+U:\635\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Medicine.resources
+U:\635\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+U:\635\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Sales_Report.resources
+U:\635\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Vendor.resources
+U:\635\Final_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Billing.resources
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Change_Password.resources
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CustomerId.resources
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Edit_Customer.resources
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home_Page.resources
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Insurance_Information.resources
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Inventory_Report.resources
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Customer.resources
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Medicine.resources
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.New_Prescription.resources
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Sales_Report.resources
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Vendor.resources
+U:\635\final\Final1_Project_Group4\Final1_Project_Group4\xz\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
