@@ -3,7 +3,7 @@
 Public Class ConnectToDB
 
 
-    Dim connection As String = "Driver={MySQL ODBC 5.3 ANSI Driver};SERVER=141.209.241.9;DATABASE=bis635_4;USER=bis635_4;PASSWORD=InitP@$$4;OPTION=3"
+    Dim connection As String = "Driver={MySQL ODBC 5.3 ANSI Driver};SERVER=***.***.***.***;DATABASE=********;USER=******;PASSWORD=******;OPTION=3"
 
     Dim odbcConnection As New OdbcConnection(connection)
 
